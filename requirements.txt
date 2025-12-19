@@ -1,0 +1,4 @@
+Flask==3.0.0
+python-telegram-bot==20.7
+upstash-redis==1.2.0
+asyncio
